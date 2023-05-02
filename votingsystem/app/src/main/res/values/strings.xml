@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">OnlineVotingSystem</string>
+    <string name="title_activity_registration">Registration</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="app_title">Online Voting System</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Already Registered? Click Here to Login</string>
+    <string name="click_to_registration">No Login? Click here to Register!</string>
+    <string name="logout">Logout</string>
+    <string name="click_to_add_data">Click to add a topic</string>
+    <string name="user">User</string>
+    <string name="manager">Manager</string>
+    <string name="role_radio_text">Role:</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="back_to_topics"><![CDATA[< Back To Topics]]></string>
+    <string name="description">Description</string>
+    <string name="add">Add Topic</string>
+    <string name="title">Title</string>
+    <string name="add_a_voting_topic">Add a Voting Topic</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_1">Option 1</string>
+    <string name="enter_data_here" />
+    <string name="you_have_already_voted_on_this_topic">You have already voted on this topic</string>
+    <string name="select_one_of_the_topics_below_to_vote">Select one of the topics below to vote</string>
+
+</resources>
